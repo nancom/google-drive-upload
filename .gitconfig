@@ -1,0 +1,2 @@
+[core]
+  sshCommand = "ssh -i ~/.ssh/nancom_github_rsa"
