@@ -19,5 +19,5 @@ $go run . {sub-folder}
 
 ## refrence
 
-[Google Drive API v3](https://developers.google.com/drive/api/v3/quickstart/go)
-[Google create credentail : desktop](https://developers.google.com/workspace/guides/create-credentials#desktop-app)
+* [Google Drive API v3](https://developers.google.com/drive/api/v3/quickstart/go)
+* [Google create credentail : desktop](https://developers.google.com/workspace/guides/create-credentials#desktop-app)
