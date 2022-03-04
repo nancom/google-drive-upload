@@ -17,6 +17,10 @@ $export $(cat .env | xargs)
 $go run . {sub-folder}
 ```
 
+```bash
+$ env GOOS=linux GOARCH=amd64 go build
+```
+
 ## refrence
 
 * [Google Drive API v3](https://developers.google.com/drive/api/v3/quickstart/go)
